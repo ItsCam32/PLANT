@@ -1,5 +1,8 @@
 <h1>PLANT (Unity)</h1>
 
+### [Release Build Files](https://1drv.ms/u/s!AncUXrOAR3CslkJnSaJYSFdeQoeH?e=JsB1yw)
+### [Project Files](https://1drv.ms/u/s!AncUXrOAR3CslkPZ6yd247j6FoL3?e=uC2eI8)
+
  ### [Video and Details](https://www.camfaulkner.dev/plant)
  
 <h2>Description</h2>
